@@ -1,0 +1,12 @@
+.container{
+  background-image: url(./4k1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.head{
+  justify-content: center;
+  display: flex;
+  font-size: xx-large;
+  font-family: 'Courier New', Courier, monospace;
+}
